@@ -9,7 +9,7 @@
     <version>1.15.0</version>
   </parent>
 
-  <artifactId>okio</artifactId>
+  <artifactId>customio</artifactId>
   <name>Okio</name>
 
   <dependencies>

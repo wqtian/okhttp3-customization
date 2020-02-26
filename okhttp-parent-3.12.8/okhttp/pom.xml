@@ -9,7 +9,7 @@
     <version>3.12.8</version>
   </parent>
 
-  <artifactId>okhttp</artifactId>
+  <artifactId>customhttp</artifactId>
   <name>OkHttp</name>
 
   <dependencies>
