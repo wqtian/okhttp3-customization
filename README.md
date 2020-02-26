@@ -1,7 +1,7 @@
 okhttp3-customization
 ======
 
-customize okhttp3 related package name, including okhttp3 and okio projects.
+customize okhttp3 related package name, including okhttp3 (v3.12.8) and okio (v1.15.0) projects.
 
 can use [IntelliJ IDEA][1] to compile these two projects.
 
