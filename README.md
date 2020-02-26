@@ -1,9 +1,9 @@
 okhttp3-customization
 ======
 
-customize okhttp3 related package name, including okhttp3 (v3.12.8) and okio (v1.15.0) projects.
+customize okhttp3 related package name, including [okhttp3 (v3.12.8)][1] and [okio (v1.15.0)][2] projects
 
-can use [IntelliJ IDEA][1] to compile these two projects.
+can use [IntelliJ IDEA][3] to compile these two projects
 
 okio
 --------
@@ -40,5 +40,6 @@ okhttp3
 -------
 - 源码里有多个 module，修改和编译注意分辨目标 module
 
-
- [1]: https://www.jetbrains.com/idea/
+ [1]: https://codeload.github.com/square/okhttp/zip/parent-3.12.8
+ [2]: https://codeload.github.com/square/okio/zip/okio-parent-1.15.0
+ [3]: https://www.jetbrains.com/idea/
